@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
-        return super.onContextItemSelected(item); //pass menu item to the superclass implementation
+        return super.onContextItemSelected(item);
     }
 
 
